@@ -1,0 +1,41 @@
+body{
+    color: #ccccccab
+}
+a{
+    text-decoration: none;
+    transition: border-color .25s;
+}
+.header-mask{
+    margin-bottom: 2vh;
+    padding-top: 5%;
+    overflow: hidden;
+}
+.header{
+    letter-spacing: 0;
+    text-transform: none;
+    font-family: Grandslang roman, sans-serif;
+    color: #F9AAC5;
+    font-size: 14vw;
+    font-weight: 300;
+    line-height: 1em;
+    text-align: center;
+    
+}
+.descricao{
+    max-width: 50%;
+    margin-left: 5%;
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.9em;
+    position: relative;  
+}
+.link{
+    color: #ece7e1;
+    border: 1px #c69e91;
+    border-bottom: 1px solid #ece7e1;
+}
+.link:hover{
+    border:none;
+    text-decoration:line-through 2px;
+}

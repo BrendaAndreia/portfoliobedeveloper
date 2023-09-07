@@ -1,0 +1,167 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Baskervville:ital@0;1&family=Erica+One&display=swap');
+
+a{
+    text-decoration: none;
+    color: #323232;
+    cursor: pointer;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #000000e5;
+    background-image: linear-gradient(to right, #05050531 1px, transparent 1px),
+    linear-gradient(to bottom, #05050531 1px, transparent 1px);
+    background-size: 30px 30px;
+    
+}
+.home{
+    display: flex;
+   align-items: center;
+}
+.window {
+    width: 450px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #000;
+    margin: 1vh;    
+}
+.window-bar {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    background: #F9AAC5;
+    border: 1px solid #000;
+}
+.window-buttons {
+    display: flex;
+}
+.button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+    border: 1px solid #000;
+    background: #fcfafa;
+}
+
+.window-title {
+    flex: 1;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.window-body {
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.code-editor {
+    font-family: 'Courier New', monospace;
+    background-color: #1E1E1E;
+    color: #D4D4D4;
+    padding: 1vh;
+    border: 1px solid #333;
+    overflow-x: auto;
+    width: 100%;
+    
+}
+
+.line-numbers {
+    display: inline-block;
+    user-select: none;
+    width: 100%; 
+}
+
+.line-numbers span {
+    color: #555;
+}
+.line-numbers .texto{
+    font-size: 14px;
+    color: white;
+}
+.line-numbers a{
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: 'Barlow';
+}
+
+/* Estilo para tags HTML personalizadas */
+.code-editor .tag {
+    color: #00BFFF; /* Azul claro */
+}
+.code-editor .tag-class{
+    color:aqua;
+}
+.code-editor .tag-class-name{
+    color: orange;
+   
+}
+.code-editor .animantion-end{
+    border-right: 2px solid;
+    animation: blinking 0.5s infinite step-end alternate;
+    color: white;
+}
+
+
+  .container{
+    width: 70vw;
+    height: 100vh;
+    color: #ccccccab;
+    flex-direction: column;
+}
+.saudacao{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    flex-direction: column;
+    margin-left: 50px;
+    height: 100%;
+    justify-content: center;
+    align-content: center;
+
+}
+.titulo-saudacao {
+    margin: 20px;
+    font-family: monospace;
+    border-right: 4px solid;
+    width: 19ch;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 2s steps(19), blinking 0.5s infinite step-end alternate;
+}
+.descricao-saudacao{
+    font-family: 'Barlow', sans-serif;
+    display: flex;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    width: 400px;
+   
+}
+object{
+    width: 100%;
+    height: 100%;
+}
+
+@keyframes blinking {
+    50% {
+     border-color: transparent;
+    }
+    
+  }
+
+@keyframes typing { 
+    from{
+      width: 0;
+    }
+  }
