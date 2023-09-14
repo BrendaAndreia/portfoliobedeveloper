@@ -23,7 +23,7 @@
 
 ![image](https://img.shields.io/badge/CSS3-F9AAC5?style=for-the-badge&logo=css3&logoColor=white)
 
-![image](https://img.shields.io/badge/JavaScript-pink?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F9AAC50?style=for-the-badge&logo=javascript&logoColor=white)
 ### Rodando o projeto 
 👉 **<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>** 👈
 ### Implementação futura
