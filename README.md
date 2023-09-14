@@ -13,7 +13,7 @@
  - <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>
  - <a href="#rodando-o-projeto">Rodando o projeto</a>
  - <a href="#implementaçao-futura">Implementação futura</a>
- - <a href="#statuso-do-projeto">Status do projeto</a>
+ - <a href="#status-do-projeto">Status do projeto</a>
 </p>
 
 ![screenshot](https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true)
@@ -25,7 +25,7 @@
 
 ![image](https://img.shields.io/badge/JavaScript-F9AAC5?style=for-the-badge&logo=javascript&logoColor=white)
 ### Rodando o projeto 
-👉**<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>**👈
+👉 **<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>** 👈
 ### Implementação futura
 - ###### Responsividade (em andamento)
 
