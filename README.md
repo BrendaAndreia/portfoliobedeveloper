@@ -16,7 +16,7 @@
  - <a href="#status-do-projeto">Status do projeto</a>
 </p>
 
-![screenshot(https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true)width="200"]
+<img scr="https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true" width="500">
 
 ### Tecnologias utilizadas
 ![image](https://img.shields.io/badge/HTML5-F9AAC5?style=for-the-badge&logo=html5&logoColor=white)
