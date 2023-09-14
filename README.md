@@ -19,11 +19,11 @@
 ![screenshot](https://github.com/BrendaAndreia/portfoliobedeveloper/blob/main/indexgit.gif?raw=true) 
 
 ### Tecnologias utilizadas
-![image](https://img.shields.io/badge/HTML5--F9AAC5?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-FF4785?style=for-the-badge&logo=html5&logoColor=white)
 
-![image](https://img.shields.io/badge/CSS3-F9AAC5?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-FF4785?style=for-the-badge&logo=css3&logoColor=white)
 
-![image](https://img.shields.io/badge/JavaScript-F9AAC5?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-FF4785?style=for-the-badge&logo=javascript&logoColor=white)
 ### Rodando o projeto 
 👉 **<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>** 👈
 ### Implementação futura
