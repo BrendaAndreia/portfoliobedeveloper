@@ -28,7 +28,8 @@
 👉 **<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>** 👈
 ### Implementação futura
 - ###### Responsividade (em andamento)
-
+- ###### Projetos
+- ###### Blog
 - ###### Criação da mesma página com React
 
 ### Status do projeto
