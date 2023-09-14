@@ -25,14 +25,14 @@
 
 ![image](https://img.shields.io/badge/JavaScript-F9AAC5?style=for-the-badge&logo=javascript&logoColor=white)
 ### Rodando o projeto 
-** <a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>**
+**<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>**
 ### Implementação futura
 - ###### Responsividade (em andamento)
 
 - ###### Criação da mesma página com React
 
 ### Status do projeto
-#####*Em construção*
+#### *Em construção*
 ---
 
 > [bedeveloper.com.br](https://www.bedeveloper.com.br) &nbsp;&middot;&nbsp;
