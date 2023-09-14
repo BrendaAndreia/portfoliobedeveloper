@@ -25,7 +25,7 @@
 
 ![image](https://img.shields.io/badge/JavaScript-F9AAC5?style=for-the-badge&logo=javascript&logoColor=white)
 ### Rodando o projeto 
-**<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>**
+👉**<a Href="Https://Portfoliobedeveloper.Vercel.App/" Target="_blank">Só Clicar Aqui</a>**👈
 ### Implementação futura
 - ###### Responsividade (em andamento)
 
