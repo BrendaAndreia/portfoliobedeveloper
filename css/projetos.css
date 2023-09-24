@@ -111,3 +111,12 @@ ul{
 .controls button:hover {
     background-color: #eeeeee98;
 }
+h2{
+    color: #fff;
+}
+
+@media only screen and (max-width: 480px) {
+    .card{
+        width: 90%;
+    }
+}
