@@ -26,7 +26,6 @@ body {
     width: 450px;
     border-radius: 12px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    background: #fff;
     overflow: hidden;
     border: 1px solid #000;
     margin: 1vh;   
@@ -187,20 +186,28 @@ object{
     
     .home{
         flex-direction: column;
+        
     }
      object{
         position: relative;
         top: 15%;
       }
-   
+    .window{
+      margin: 20px;
+      padding: 0 30px;
+    }
     .window-title {
       font-size: 16px;
     }
   
     .container {
-      height:90vh ;
+      height: 90vh;
+      width: 100vw;
     }
-  
+    .titulo-saudacao {
+      margin: 10px 0 ;
+    }
+
     .saudacao {
       margin-left: 10px;
     }
@@ -212,29 +219,7 @@ object{
     .code-editor{
         font-size: 10px;
     }
-  }
-  
-
-/* Estilos para tablets */
-@media only screen and (max-width: 768px) {
-    .window {
-      width: 100%;
-    }
-  
-    .container {
-      width: 70vw;
-      flex-direction: column;
-    }
-  
-    .saudacao {
-      margin-left: 20px;
-    }
-  
-    .descricao-saudacao {
-      width: 90%;
-    }
-  }
-  
+  }  
   /* Estilos para smartphones em modo paisagem */
   @media only screen and (min-width: 481px) and (max-width: 768px) and (orientation: landscape) {
     .window {
@@ -259,3 +244,8 @@ object{
     }
   }
   
+  @media only screen and (min-width:768px) and (max-width: 1280px){
+   .container{
+    width: 50%;
+  }
+}

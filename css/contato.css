@@ -39,3 +39,10 @@ a{
     border:none;
     text-decoration:line-through 2px;
 }
+
+@media only screen and (max-width: 480px) {
+    .descricao{
+     max-width: 100%;
+    }
+
+}
