@@ -44,5 +44,14 @@ a{
     .descricao{
      max-width: 100%;
     }
-
+    .header-mask{
+        position: absolute;
+        top:0% !important;
+    }
+}
+@media (max-width: 768px){
+    .header-mask{
+        position: absolute;
+        top:30%
+    }
 }

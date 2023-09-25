@@ -26,7 +26,7 @@ ul{
     background-color:#78E1EB;
     margin: 10px;
     padding: 10px;
-    width: calc(33% - 20px); /* Divide em duas colunas */
+    width: 45%; /* Divide em duas colunas */
     color: #000;
     transition: all 0.5s all;
     
@@ -110,9 +110,6 @@ ul{
 
 .controls button:hover {
     background-color: #eeeeee98;
-}
-h2{
-    color: #fff;
 }
 
 @media only screen and (max-width: 480px) {
