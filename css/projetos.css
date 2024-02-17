@@ -50,7 +50,7 @@ ul{
 
 .card .tags a {
     background-color: transparent;
-    color: #0000004f; 
+    color: #ffffff98; 
     font-weight: bold;
     padding: 5px 10px;
     border-radius: 5px;
@@ -67,7 +67,7 @@ ul{
     display: flex;
 }
 .card .links a{
-    color: #fff;
+    color: #ffffff98;
     font-weight: bold;
     margin: 50px;
 }
